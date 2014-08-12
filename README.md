@@ -14,7 +14,7 @@ As an example I included a script which connects to time.nist.gov:13 and fetches
 
 libevent 2.0.19 (this is the one in debian 7 right now) - I pushed some changes upstream which they eventually integrated... I was quite surprised to notice that my code suddenly works without a patched libevent 4 years later. :-)
 
-Unfortunately it does not work with the latest libevent stable version - this needs to be fixed of cours.
+Unfortunately it does not work with the latest libevent stable version - this needs to be fixed of course.
 
 ## Usage
 
