@@ -24,3 +24,26 @@ To test:
     ./hades
 
 ... and open http://127.0.0.1:8080/daytime.html in your browser
+
+## TODO
+
+Obviously there is lots of stuff to be done.
+
+1. Add websockets support
+2. Support the newer libevent interface
+3. Testing on a variety of browsers
+4. Possibly adding other methods of getting the data through
+5. UDP support
+6. Windows support (it already worked in the past)
+7. Make the HADES.* JS classes more sexy.
+8. Write some cool web app which uses it. ;-)
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create a new Pull Request
+
+Or simply write a patch and send me an E-Mail. :-)
